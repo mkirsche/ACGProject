@@ -1,0 +1,13 @@
+chr22*
+*.bam
+*.sam
+*.gfa
+*.sam
+out.*
+*.fa
+output/
+*.class
+*.txt
+*.fastq
+*.fq
+
