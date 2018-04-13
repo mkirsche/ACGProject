@@ -12,4 +12,5 @@ output/
 *.fq
 *.bai
 meetingnotes
+*.txt.*
 
